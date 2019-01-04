@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 ## Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-Purpose: To make a tidy data using the techniques introduced in this course
+Purpose: To make a tidy data using the techniques introduced in this course.
 Download first the dataset and extract in the directory of your choice.
 
 1. Read supporting files to prepare the activity names.
