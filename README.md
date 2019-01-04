@@ -4,6 +4,8 @@
 Purpose: To make a tidy data using the techniques introduced in this course.
 Download first the dataset and extract in the directory of your choice.
 
+The script will do the following:
+
 1. Read supporting files to prepare the activity names.
 2. Read training data sets.
 3. Read test data sets.
